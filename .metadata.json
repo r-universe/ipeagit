@@ -1,0 +1,10 @@
+[
+  {
+    "package": "aopdata",
+    "oncran": true
+  },
+  {
+    "package": "r5r",
+    "oncran": true
+  }
+]

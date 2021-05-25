@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ipeagit/universe
 	shallow = true
 	branch = HEAD
+[submodule "aopdata"]
+	path = aopdata
+	url = https://github.com/ipeaGIT/aopdata
+	shallow = true
+	registered = true
+[submodule "r5r"]
+	path = r5r
+	url = https://github.com/ipeaGIT/r5r
+	shallow = true
+	subdir = r-package
+	registered = true
