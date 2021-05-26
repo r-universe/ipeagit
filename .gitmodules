@@ -7,6 +7,7 @@
 	path = aopdata
 	url = https://github.com/ipeaGIT/aopdata
 	shallow = true
+	subdir = r-package
 	registered = true
 [submodule "r5r"]
 	path = r5r
