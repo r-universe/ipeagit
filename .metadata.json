@@ -3,6 +3,7 @@
     "package": "aopdata"
   },
   {
-    "package": "r5r"
+    "package": "r5r",
+    "oncran": false
   }
 ]
