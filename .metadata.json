@@ -1,6 +1,7 @@
 [
   {
-    "package": "aopdata"
+    "package": "aopdata",
+    "oncran": false
   },
   {
     "package": "r5r",
