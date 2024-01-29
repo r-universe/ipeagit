@@ -1,12 +1,43 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ipeagit/universe
+	url = https://github.com/ipeagit/ipeagit.r-universe.dev
 	branch = HEAD
+[submodule "accessibility"]
+	path = accessibility
+	url = https://github.com/ipeagit/accessibility
 [submodule "aopdata"]
 	path = aopdata
 	url = https://github.com/ipeaGIT/aopdata
 	subdir = r-package
+[submodule "censobr"]
+	path = censobr
+	url = https://github.com/ipeagit/censobr
+[submodule "enderecopadrao"]
+	path = enderecopadrao
+	url = https://github.com/ipeagit/enderecopadrao
+[submodule "flightsbr"]
+	path = flightsbr
+	url = https://github.com/ipeagit/flightsbr
+[submodule "geobr"]
+	path = geobr
+	url = https://github.com/ipeaGIT/geobr
+	subdir = r-package
+[submodule "gtfs2emis"]
+	path = gtfs2emis
+	url = https://github.com/ipeagit/gtfs2emis
+[submodule "gtfs2gps"]
+	path = gtfs2gps
+	url = https://github.com/ipeagit/gtfs2gps
+[submodule "gtfstools"]
+	path = gtfstools
+	url = https://github.com/ipeagit/gtfstools
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/ipeaGIT/r5r
 	subdir = r-package
+[submodule "rosmium"]
+	path = rosmium
+	url = https://github.com/ipeagit/rosmium
+[submodule "uci"]
+	path = uci
+	url = https://github.com/ipeagit/uci
