@@ -12,9 +12,9 @@
 [submodule "censobr"]
 	path = censobr
 	url = https://github.com/ipeagit/censobr
-[submodule "enderecopadrao"]
-	path = enderecopadrao
-	url = https://github.com/ipeagit/enderecopadrao
+[submodule "enderecobr"]
+	path = enderecobr
+	url = https://github.com/ipeagit/enderecobr
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/ipeagit/flightsbr
